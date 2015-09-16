@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣師子吼經
+#+DATE: 2015-08-30 20:22:16.168813
+#+PROPERTY: JUAN 0

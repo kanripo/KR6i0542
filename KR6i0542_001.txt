@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:15.894895
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:55
 #+TITLE: 大方廣師子吼經
 #+PROPERTY: CBETA_ID T17n0836
 #+PROPERTY: ID KR6i0542
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 836
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0542_T_000-0890b>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0542_T_001-0890b> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.836[No.835]¶
-
- 《大方廣師子吼經》¶
+No. 836 [No. 835]¶
+《大方廣師子吼經》¶
 ¶
 大唐天竺三藏地婆訶羅譯¶
 
@@ -65,11 +64,11 @@ No.836[No.835]¶
 「　「大悲大導師，
 　微笑非無因；¶
 　願佛利眾生，
-　垂哀決定說。」
+　垂哀決定說。」」
 #+END_VERSE
-」¶
+¶
 
-爾時法起如來端嚴赫奕，閻浮檀金暉煥照¶
+爾時法起如來端嚴赫弈，閻浮檀金暉煥照¶
 朗，散注無量百千俱胝那由他微妙光明如¶
 大金柱。電鬘菩薩白佛言：「世尊！我見無量¶
 神通光明，未若今日，昔所不覩。」
